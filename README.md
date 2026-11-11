@@ -1,16 +1,52 @@
-## Hi there 👋
+# Christine Khayat
+### Cybersecurity | Cryptography | Network Security
 
-<!--
-**chrisonlinux25/chrisonlinux25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate focused on cybersecurity, with interests in cryptography, security engineering, network security and security operations. I enjoy exploring how systems work, identifying security weaknesses, and building practical approaches to securing digital infrastructure.
 
-Here are some ideas to get you started:
+Currently expanding my knowledge of security engineering, cloud security, cryptography and defensive security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Interest
+
+- Cryptography & Applied Cryptography
+- Cybersecurity & Security Engineering
+- Security Operations (SOC) & SIEM
+- Network & Infrastructure Security
+- Cloud Security
+- IoT Security & Threat Detection
+
+## Technical Skills & Tools
+
+**Programming & Scripting**
+
+Python · SQL · Bash · PowerShell · Java · JavaScript
+
+**Operating Systems & Environments**
+
+Linux · Kali Linux · Ubuntu · Windows · macOS
+
+**Cybersecurity & Networking**
+
+Burp Suite · Nmap · Wireshark · Metasploit · OWASP · MQTT · TLS/mTLS · HMAC
+
+**Cloud & Infrastructure**
+
+AWS · Docker · Kubernetes · Cisco
+
+**Databases & Data Science**
+
+MySQL · MongoDB · PostgreSQL · Pandas · NumPy · Scikit-learn · TensorFlow
+
+---
+
+## Featured Work
+
+- IoT Security & Cyber Defense
+- Network Intrusion Detection
+- Secure Coding & Application Security
+- Machine Learning & Data Analysis
+
+---
+
+*Always learning. Always investigating.*
